@@ -1,5 +1,7 @@
 # Building with LLMs Made Simple
 
+[한국어](./README_ko.md)
+
 A tutorial on how to build Python programs with LLMs enhanced in the mix.
 
 Made with ❤️ by Eric J. Ma (@ericmjl).
